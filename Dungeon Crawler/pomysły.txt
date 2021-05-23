@@ -1,0 +1,6 @@
+-alchemik -do kupowania i sporządzania mikstur i różdżek/kosturów
+-kowal - do kupowania, naprawy i sporządzania broni
+-targ - do kupowania jedzenia które przywaraca mniej hp niż mikstura ale jest tańsze
+-motel/zamtuz - odpoczynek za opłatą przywraca część hp i many
+-bar - można w nim grać za zebrane złoto w kości
+-wejscie do lochu
